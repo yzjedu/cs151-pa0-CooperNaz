@@ -1,0 +1,9 @@
+Programming for myself wasn't too different than doing it with a partner, at least this time. I was able to learn the
+process of creating an algorithm and code somewhat from scratch without having many prerequisites from the professor.
+Next time I would probably try doing the algorithm and the code in a closer time frame than I did this time.
+I ended up writing the code before writing the algorithm, but that code developed and changed as we learned in class,
+incorporating things such as rounding to two decimal points and proper input prompts. Over the span of the assignment,
+the program changed and became better, and to my knowledge the results are somewhat accurate, even though the results
+are meant to be an approximation, not accounting for the slope of the sides of the cup or the thickness of the bottom
+or sides of the cup. I believe I did the best I could with the problem I was given and my current knowledge, and I'm
+proud of the clear improvement I've made since the start of the assignment.
