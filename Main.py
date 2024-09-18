@@ -16,8 +16,8 @@ print("This program calculates the approximate volume of a cup.")
 print("Use a cylindrical cup for the most accurate results.")
 
 #Prompt the user to input values for radius and height.
-cylinder_height = float(input("Enter the height of the cup in centimeters: "))
 cylinder_radius = float(input("Enter the radius of the cup in centimeters: "))
+cylinder_height = float(input("Enter the height of the cup in centimeters: "))
 pi = 3.141592653589793
 
 #Calculate the volume of the cup.
